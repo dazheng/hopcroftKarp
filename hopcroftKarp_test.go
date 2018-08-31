@@ -1,4 +1,4 @@
-package HopcroftKarp
+package hopcroftKarp
 
 import (
 	"testing"

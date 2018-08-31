@@ -1,4 +1,4 @@
-package HopcroftKarp
+package hopcroftKarp
 
 type Vertex struct {
 	vertex string
